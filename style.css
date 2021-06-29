@@ -1,0 +1,27 @@
+.margin-top{
+    margin-top: 100px;
+}
+.login-area{
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+    margin: 100px 40px;
+    border-radius: 10px;
+}
+#tranjection-area{
+    display: none;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.deposite{
+    background-color: lightskyblue;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px 20px 0 20px;
+}
